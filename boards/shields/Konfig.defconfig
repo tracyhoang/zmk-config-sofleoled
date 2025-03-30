@@ -5,7 +5,7 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
-if SHIELD_SOFLE
+if SHIELD_SOFLE_RIGHT
 
   config ZMK_KEYBOARD_NAME
     default "SofleOLED"
